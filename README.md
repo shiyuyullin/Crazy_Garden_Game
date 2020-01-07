@@ -14,3 +14,5 @@ To win this game you need some luck and a bit strategy.
 		  Minimum size of garden: 3x3
 		  You can only plant on empty spot. To plant a tree you need to give the top left coordinate of a 2x2 space
     and the program will check to make sure all 4 locations are free.
+    
+    The "LetsPlay.java" is the driver for the entire game
